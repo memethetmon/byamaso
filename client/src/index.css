@@ -1,0 +1,56 @@
+body {
+  margin: 10px;
+  font: normal normal normal 14px/1.79em raleway,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+video {
+  display: block;
+  margin: 5% auto;
+  width: 90%;
+}
+
+.title {
+  font: normal normal normal 40px/1.4em 'playfair display',serif;
+}
+
+.subTitle {
+  font: normal normal normal 24px/1.4em 'playfair display',serif;
+  margin-bottom: 30px;
+}
+
+#loginForm {
+  position: relative;
+  width: 300px;
+  top: 30px;
+  left: 50%;
+  margin-left: -150px;
+}
+
+#header {
+  height: 110px;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.logo {
+  float: left;
+  width: 150px;
+}
+
+.navbar {
+  float: right;
+  top: 50%;
+  margin-top: -28px;
+}
+
+.input-group {
+  width: 20%;
+}
